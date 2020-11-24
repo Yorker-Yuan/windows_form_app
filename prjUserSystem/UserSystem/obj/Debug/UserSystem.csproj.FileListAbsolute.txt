@@ -1,0 +1,10 @@
+D:\asp.net_mvc\windows_form_app\prjUserSystem\UserSystem\bin\Debug\UserSystem.exe.config
+D:\asp.net_mvc\windows_form_app\prjUserSystem\UserSystem\bin\Debug\UserSystem.exe
+D:\asp.net_mvc\windows_form_app\prjUserSystem\UserSystem\bin\Debug\UserSystem.pdb
+D:\asp.net_mvc\windows_form_app\prjUserSystem\UserSystem\obj\Debug\UserSystem.csprojAssemblyReference.cache
+D:\asp.net_mvc\windows_form_app\prjUserSystem\UserSystem\obj\Debug\UserSystem.Form1.resources
+D:\asp.net_mvc\windows_form_app\prjUserSystem\UserSystem\obj\Debug\UserSystem.Properties.Resources.resources
+D:\asp.net_mvc\windows_form_app\prjUserSystem\UserSystem\obj\Debug\UserSystem.csproj.GenerateResource.cache
+D:\asp.net_mvc\windows_form_app\prjUserSystem\UserSystem\obj\Debug\UserSystem.csproj.CoreCompileInputs.cache
+D:\asp.net_mvc\windows_form_app\prjUserSystem\UserSystem\obj\Debug\UserSystem.exe
+D:\asp.net_mvc\windows_form_app\prjUserSystem\UserSystem\obj\Debug\UserSystem.pdb
